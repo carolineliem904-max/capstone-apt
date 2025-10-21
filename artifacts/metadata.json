@@ -1,0 +1,11 @@
+{
+  "use_log_target":true,
+  "random_state":42,
+  "best_cv_model":"RandomForest Regressor",
+  "tuned_estimator":"XGBRegressor",
+  "test_metrics":{
+    "RMSE":47463.3932928021,
+    "MAE":37995.9478468692,
+    "MAPE":18.6861609082
+  }
+}
